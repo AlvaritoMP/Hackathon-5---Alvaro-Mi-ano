@@ -173,3 +173,64 @@ header {
     position: relative;
 }
 
+.autor {
+    
+
+    width: 200px;
+    height: 24px;
+    left: 0px;
+    top: -370px;
+    
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    
+    /* Blue_01 */
+    
+    color: #1F3F68;
+    
+    position: relative;
+}
+
+.fechah1 {
+    
+
+    width: 200px;
+    height: 24px;
+    left: 0px;
+    top: -370px;
+    
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    
+    /* Blue_01 */
+    
+    color: #1F3F68;
+    opacity: 0.4;
+    
+    position: relative;
+}
+
+.save1 {
+    
+    left: 280px;
+    top: -405px;
+      
+    position: relative;
+}
+
+.share1 {
+    
+    left: 320px;
+    top: -405px;
+      
+    position: relative;
+}
+
